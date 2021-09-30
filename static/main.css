@@ -19,7 +19,7 @@ a{
 --------------------------------------------------------------*/
 .back-to-top {
     position: fixed;
-    right: 15px;
+    right: 8px;
     display: none;
     bottom: 20px;
     z-index: 99999;
